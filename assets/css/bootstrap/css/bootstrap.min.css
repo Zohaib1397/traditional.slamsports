@@ -15866,3 +15866,12 @@ textarea.form-control-lg {
   }
 }
 
+video {
+  transform: translateY(-33%);
+}
+
+#section-clients {
+  background-color: #fff;
+  background: #fff;
+}
+
